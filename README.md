@@ -14,7 +14,7 @@ Following are the conspiciuous changes made to the different parts of this webpa
 2. Has semantical HTML elements,
 3. The structure of the HTML elements are correctly and logically constructed,
 4. It has accessible alt attributes, where deemed crucial for accessibility,
-5. It follows logical and sequential order of heading attributes,
+5. It follows a logical and sequential order of heading attributes,
 6. And has a concise and descriptive title.
 
 
