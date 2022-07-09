@@ -17,6 +17,8 @@ Following are the conspiciuous changes made to the different parts of this webpa
 5. It follows a logical and sequential order of heading attributes,
 6. And has a concise and descriptive title.
 
+I have got less percentage due to some missing parts.
+
 
 
 Yaqoob Zahoor Ahmed. All Rights Reserved. 2022
